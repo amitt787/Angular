@@ -1,0 +1,22 @@
+{
+  "seller": [
+    {
+      "name": "amit",
+      "email": "amit@gmail.com",
+      "psw": "abc1234",
+      "id": 1
+    },
+    {
+      "name": "akshay",
+      "email": "akshay@gmail.com",
+      "psw": "abc1234",
+      "id": 2
+    },
+    {
+      "name": "rohan",
+      "email": "rohan@gmail.com",
+      "psw": "abc1234",
+      "id": 3
+    }
+  ]
+}
